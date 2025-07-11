@@ -29,7 +29,7 @@ coverage/
 *.tsbuildinfo
 
 # Optional: if you use rollup or webpack
-rollup.config.js
+sdk/rollup.config.mjs
 webpack.config.js
 
 # Temporary files
