@@ -1,0 +1,41 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+coverage/
+
+# IDE/Editor settings
+.idea/
+.vscode/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# TypeScript
+*.tsbuildinfo
+
+# Optional: if you use rollup or webpack
+rollup.config.js
+webpack.config.js
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+
+# SDK compiled output (if you build to sdk/dist)
+sdk/dist/
